@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA AI",
+  "description": "Complete, unified, extensible all-in-one AI assistant platform featuring multimodal chat, code assistance, image studio, web research, document intelligence, study tools, and projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
